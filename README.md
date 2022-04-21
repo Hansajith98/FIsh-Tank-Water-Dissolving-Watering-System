@@ -7,7 +7,7 @@ The system mainly consist with mobile applicaiton and Arduino platform. Mobile a
 </p>
 
 ### Basic structure of system
-![Structure of system](https://i.postimg.cc/Pq7M0CGX/Fish-Tank-Watering-System.jpg)
+![Structure of system](https://postimg.cc/VSjMCLLp)
 
 ### What technologies used?
 + Arduino
